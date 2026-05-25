@@ -4,7 +4,7 @@
 
 
 当前版本的参数如下：
-    "add": "a",                  # 核心指令：添加文件到压缩包 
+    "add": "a",                  # 核心指令：添加文件到压缩包
     "recursive": None,           # 递归处理子目录 -r（None=不递归）
     "delete_source": "-df",       # 压缩完成后删除源文件 -df 
     "recovery_record": "-rr10",  # 添加10%恢复记录，None=不添加
