@@ -3,7 +3,7 @@
 注意：需提前安装WinRAR，且脚本仅支持Windows系统  
 
 
-当前版本的参数如下：  
+当前版本（v20260502）的参数如下：  
     "add": "a",                  # 核心指令：添加文件到压缩包  
     "recursive": None,           # 递归处理子目录 -r（None=不递归）  
     "delete_source": "-df",       # 压缩完成后删除源文件 -df  
